@@ -1,8 +1,8 @@
 {
  "source": "Commissione di Garanzia Sciopero - cgsse.it",
- "updated": "2026-11-05T09:59:09Z",
- "from": "2026-11-05",
- "to": "2027-02-03",
+ "updated": "2026-11-09T19:31:42Z",
+ "from": "2026-11-09",
+ "to": "2027-02-07",
  "strikes": [
   {
    "id": 382437,
@@ -15,9 +15,9 @@
    "area": "",
    "time": "dalle ore 9.01 alle ore 16.59",
    "hours": "8.00",
-   "unions": "Filt Cgil Fit Cisl Ugl Ferrovieri Fast Confsal Orsa Trasporti",
+   "unions": "Filt Cgil Data di revoca 06/11/2026 Fit Cisl Data di revoca 06/11/2026 Ugl Ferrovieri Data di revoca 06/11/2026 Fast Confsal Data di revoca 06/11/2026 Orsa Trasporti Data di revoca 06/11/2026",
    "notes": "",
-   "status": "Attivo",
+   "status": "Revocato in data 06/11/2026",
    "declared": "2026-10-27"
   },
   {
@@ -31,9 +31,9 @@
    "area": "",
    "time": "dalle ore 2.00 alle ore 23.59",
    "hours": "22.00",
-   "unions": "Uiltrasporti",
-   "notes": "TUTTO IL PERSONALE OPERATIVO EQUIPAGGI DELLA SOCIETÀ ITALO-NTV",
-   "status": "Attivo",
+   "unions": "Uiltrasporti Data di revoca 06/11/2026",
+   "notes": "ADEGUAMENTO P13D CGS.TUTTO IL PERSONALE OPERATIVO EQUIPAGGI DELLA SOCIETÀ ITALO-NTV",
+   "status": "Revocato in data 06/11/2026",
    "declared": "2026-10-27"
   },
   {
@@ -69,6 +69,38 @@
    "declared": "2026-10-07"
   },
   {
+   "id": 383057,
+   "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/383057",
+   "dateStart": "2026-11-20",
+   "dateEnd": "2026-11-21",
+   "sector": "Trasporto merci su rotaia, Trasporto pubblico locale, Trasporto ferroviario",
+   "company": "AZIENDE CHE SVOLGONO ATTIVITA FERROVIARIA",
+   "scope": "Nazionale",
+   "area": "",
+   "time": "dalle ore 21.00 del 20/11 alle ore 20.00 del 21/11",
+   "hours": "23.00",
+   "unions": "Cat",
+   "notes": "",
+   "status": "Attivo",
+   "declared": "2026-11-09"
+  },
+  {
+   "id": 383015,
+   "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/383015",
+   "dateStart": "2026-11-20",
+   "dateEnd": "2026-11-21",
+   "sector": "Trasporto ferroviario",
+   "company": "GRUPPO FSI, MERCITALIA RAIL, TRENITALIA, TRENITALIA TPER SCARL",
+   "scope": "Nazionale",
+   "area": "",
+   "time": "dalle ore 21.00 del 20/11 alle ore 20.00 del 21/11",
+   "hours": "23.00",
+   "unions": "Assemblea Nazionale Pdm/pdb",
+   "notes": "",
+   "status": "Attivo",
+   "declared": "2026-11-05"
+  },
+  {
    "id": 382228,
    "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/382228",
    "dateStart": "2026-11-20",
@@ -80,9 +112,25 @@
    "time": "intera giornata",
    "hours": "",
    "unions": "Cgil",
-   "notes": "ADEGUAMENTO PARZIALE AL P13 D CON NOTA DEL 30/10",
+   "notes": "ADEG. PARZIALE,ESCLUSI DALLO SCIOPERO ASL BROTZ CAGLIARI,CRM/BPO,DM SERVICE COMUNE MARIGLIANO,DM TECHNOLOGY COMUNE VITULAZIO, ECONOVA COMUNE META DI SORRENTO,PAOLO SCOPPIO COMUNE RM,COLLEGIO UNINOMINALE CHIETI,TURNO ELETTORALE CALVI RISORTA E STEFANACONI",
    "status": "Attivo",
    "declared": "2026-10-19"
+  },
+  {
+   "id": 382981,
+   "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/382981",
+   "dateStart": "2026-11-20",
+   "dateEnd": "2026-11-20",
+   "sector": "Generale nazionale",
+   "company": "TUTTI I SETTORI PUBBLICI E PRIVATI",
+   "scope": "Nazionale",
+   "area": "",
+   "time": "intera giornata ad eslusione del trasporto ferroviario, trasporto merci su rotaia.per la sanità lo sciopero è articolato dall'inizio del primo turno del 20/11 alla fine dell'ultimo",
+   "hours": "",
+   "unions": "Clap Confederazione Cobas Sial Cobas",
+   "notes": "SONO ESCLUSE TUTTE LE AZIENDE INTERESSATE DA SCIOPERI PROCLAMATI PRECEDENTEMENTE",
+   "status": "Attivo",
+   "declared": "2026-11-05"
   },
   {
    "id": 382755,
@@ -101,22 +149,6 @@
    "declared": "2026-10-28"
   },
   {
-   "id": 381488,
-   "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/381488",
-   "dateStart": "2026-12-04",
-   "dateEnd": "2026-12-04",
-   "sector": "Generale nazionale",
-   "company": "TUTTE LE CATEGORIE PUBBLICHE E PRIVATE",
-   "scope": "Nazionale",
-   "area": "",
-   "time": "intera giornata",
-   "hours": "24.00",
-   "unions": "Cub Sgb Adl Varese Si Cobas Sbm Sgc Unicobas Data di revoca 20/10/2026",
-   "notes": "PER I VVF DALLE 9.00 ALLE 13.00 PER LE AUTOSTRADE LO SCIOPERO INIZIERÀ ALLE ORE 22.00 DEL 3/12 E TERMINERÀ ALLE ORE 22.00 DEL 4/12 PER LE FERROVIE DALLE 21,00 DEL 3/12 ALLE 21.00 DEL 4/12",
-   "status": "Attivo",
-   "declared": "2026-09-28"
-  },
-  {
    "id": 382773,
    "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/382773",
    "dateStart": "2026-12-04",
@@ -131,6 +163,22 @@
    "notes": "VIENE ESCLUSO DALLO SCIOPERO L'INTERO COMPARTO DEI TRASPORTI PER I VVF DALLE ORE 9.00 ALLE ORE 13.00",
    "status": "Attivo",
    "declared": "2026-10-28"
+  },
+  {
+   "id": 381488,
+   "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/381488",
+   "dateStart": "2026-12-04",
+   "dateEnd": "2026-12-04",
+   "sector": "Generale nazionale",
+   "company": "TUTTE LE CATEGORIE PUBBLICHE E PRIVATE",
+   "scope": "Nazionale",
+   "area": "",
+   "time": "intera giornata",
+   "hours": "24.00",
+   "unions": "Cub Sgb Adl Varese Si Cobas Sbm Sgc Unicobas Data di revoca 20/10/2026",
+   "notes": "PER I VVF DALLE 9.00 ALLE 13.00 PER LE AUTOSTRADE LO SCIOPERO INIZIERÀ ALLE ORE 22.00 DEL 3/12 E TERMINERÀ ALLE ORE 22.00 DEL 4/12 PER LE FERROVIE DALLE 21,00 DEL 3/12 ALLE 21.00 DEL 4/12",
+   "status": "Attivo",
+   "declared": "2026-09-28"
   }
  ]
 }
