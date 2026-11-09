@@ -1,6 +1,6 @@
 {
  "source": "Commissione di Garanzia Sciopero - cgsse.it",
- "updated": "2026-11-09T19:31:42Z",
+ "updated": "2026-11-09T19:32:16Z",
  "from": "2026-11-09",
  "to": "2027-02-07",
  "strikes": [
@@ -149,22 +149,6 @@
    "declared": "2026-10-28"
   },
   {
-   "id": 382773,
-   "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/382773",
-   "dateStart": "2026-12-04",
-   "dateEnd": "2026-12-04",
-   "sector": "Generale nazionale",
-   "company": "TUTTE LE CATEGORIE PUBBLICHE E PRIVATE",
-   "scope": "Nazionale",
-   "area": "",
-   "time": "intera giornata",
-   "hours": "",
-   "unions": "Usi 1912",
-   "notes": "VIENE ESCLUSO DALLO SCIOPERO L'INTERO COMPARTO DEI TRASPORTI PER I VVF DALLE ORE 9.00 ALLE ORE 13.00",
-   "status": "Attivo",
-   "declared": "2026-10-28"
-  },
-  {
    "id": 381488,
    "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/381488",
    "dateStart": "2026-12-04",
@@ -179,6 +163,22 @@
    "notes": "PER I VVF DALLE 9.00 ALLE 13.00 PER LE AUTOSTRADE LO SCIOPERO INIZIERÀ ALLE ORE 22.00 DEL 3/12 E TERMINERÀ ALLE ORE 22.00 DEL 4/12 PER LE FERROVIE DALLE 21,00 DEL 3/12 ALLE 21.00 DEL 4/12",
    "status": "Attivo",
    "declared": "2026-09-28"
+  },
+  {
+   "id": 382773,
+   "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/382773",
+   "dateStart": "2026-12-04",
+   "dateEnd": "2026-12-04",
+   "sector": "Generale nazionale",
+   "company": "TUTTE LE CATEGORIE PUBBLICHE E PRIVATE",
+   "scope": "Nazionale",
+   "area": "",
+   "time": "intera giornata",
+   "hours": "",
+   "unions": "Usi 1912",
+   "notes": "VIENE ESCLUSO DALLO SCIOPERO L'INTERO COMPARTO DEI TRASPORTI PER I VVF DALLE ORE 9.00 ALLE ORE 13.00",
+   "status": "Attivo",
+   "declared": "2026-10-28"
   }
  ]
 }
