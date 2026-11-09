@@ -116,7 +116,7 @@ def main():
             strikes.append(d)
         else:
             skipped += 1
-    strikes.sort(key=lambda s: (s["dateStart"], s["company"]))
+    strikes.sort(key=lambda s: (s["dateStart"], s["company"], s["id"]))  # l'id evita che i pari merito cambino ordine a ogni lettura
 
     # Controlli di prudenza: se il sito cambia impaginazione non si deve sovrascrivere l'elenco buono con uno vuoto o a pezzi
     if skipped and skipped * 2 > len(ids):
