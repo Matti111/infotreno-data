@@ -1,25 +1,9 @@
 {
  "source": "Commissione di Garanzia Sciopero - cgsse.it",
- "updated": "2026-11-09T19:33:16Z",
+ "updated": "2026-11-09T19:33:49Z",
  "from": "2026-11-09",
  "to": "2027-02-07",
  "strikes": [
-  {
-   "id": 382665,
-   "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/382665",
-   "dateStart": "2026-11-09",
-   "dateEnd": "2026-11-09",
-   "sector": "Trasporto ferroviario",
-   "company": "ITALO NTV",
-   "scope": "Nazionale",
-   "area": "",
-   "time": "dalle ore 2.00 alle ore 23.59",
-   "hours": "22.00",
-   "unions": "Uiltrasporti Data di revoca 06/11/2026",
-   "notes": "ADEGUAMENTO P13D CGS.TUTTO IL PERSONALE OPERATIVO EQUIPAGGI DELLA SOCIETÀ ITALO-NTV",
-   "status": "Revocato in data 06/11/2026",
-   "declared": "2026-10-27"
-  },
   {
    "id": 382437,
    "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/382437",
@@ -33,6 +17,22 @@
    "hours": "8.00",
    "unions": "Filt Cgil Data di revoca 06/11/2026 Fit Cisl Data di revoca 06/11/2026 Ugl Ferrovieri Data di revoca 06/11/2026 Fast Confsal Data di revoca 06/11/2026 Orsa Trasporti Data di revoca 06/11/2026",
    "notes": "",
+   "status": "Revocato in data 06/11/2026",
+   "declared": "2026-10-27"
+  },
+  {
+   "id": 382665,
+   "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/382665",
+   "dateStart": "2026-11-09",
+   "dateEnd": "2026-11-09",
+   "sector": "Trasporto ferroviario",
+   "company": "ITALO NTV",
+   "scope": "Nazionale",
+   "area": "",
+   "time": "dalle ore 2.00 alle ore 23.59",
+   "hours": "22.00",
+   "unions": "Uiltrasporti Data di revoca 06/11/2026",
+   "notes": "ADEGUAMENTO P13D CGS.TUTTO IL PERSONALE OPERATIVO EQUIPAGGI DELLA SOCIETÀ ITALO-NTV",
    "status": "Revocato in data 06/11/2026",
    "declared": "2026-10-27"
   },
