@@ -1,8 +1,8 @@
 {
  "source": "Commissione di Garanzia Sciopero - cgsse.it",
- "updated": "2026-11-10T12:03:14Z",
- "from": "2026-11-10",
- "to": "2027-02-08",
+ "updated": "2026-11-11T12:19:30Z",
+ "from": "2026-11-11",
+ "to": "2027-02-09",
  "strikes": [
   {
    "id": 381879,
@@ -61,10 +61,10 @@
    "company": "TUTTI I SETTORI PUBBLICI E PRIVATI",
    "scope": "Nazionale",
    "area": "",
-   "time": "intera giornata",
+   "time": "intera giornata.sono esclusi il trasporto aereo, il trasporto ferroviario ed altri bacini di utenza indicati dalla commissione",
    "hours": "",
    "unions": "Cgil",
-   "notes": "ADEG. PARZIALE,ESCLUSI DALLO SCIOPERO ASL BROTZ CAGLIARI,CRM/BPO,DM SERVICE COMUNE MARIGLIANO,DM TECHNOLOGY COMUNE VITULAZIO, ECONOVA COMUNE META DI SORRENTO,PAOLO SCOPPIO COMUNE RM,COLLEGIO UNINOMINALE CHIETI,TURNO ELETTORALE CALVI RISORTA E STEFANACONI",
+   "notes": "ADEGUAMENTO PARZIALE P13D CGS CON NOTA DELL' O.S. CGIL DEL 10/11",
    "status": "Attivo",
    "declared": "2026-10-19"
   },
