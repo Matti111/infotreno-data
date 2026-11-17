@@ -1,8 +1,8 @@
 {
  "source": "Commissione di Garanzia Sciopero - cgsse.it",
- "updated": "2026-11-11T12:19:30Z",
- "from": "2026-11-11",
- "to": "2027-02-09",
+ "updated": "2026-11-17T08:27:44Z",
+ "from": "2026-11-17",
+ "to": "2027-02-15",
  "strikes": [
   {
    "id": 381879,
@@ -64,7 +64,7 @@
    "time": "intera giornata.sono esclusi il trasporto aereo, il trasporto ferroviario ed altri bacini di utenza indicati dalla commissione",
    "hours": "",
    "unions": "Cgil",
-   "notes": "ADEGUAMENTO PARZIALE P13D CGS CON NOTA DELL' O.S. CGIL DEL 10/11",
+   "notes": "ADEGUAMENTO PARZIALE P13D CGS CON NOTA DELL' O.S. CGIL DEL 10/11 E NOTA CONFEDERAZIONE SINDACALE SARDA - CSS DEL 16/11",
    "status": "Attivo",
    "declared": "2026-10-19"
   },
@@ -77,10 +77,10 @@
    "company": "TUTTI I SETTORI PUBBLICI E PRIVATI",
    "scope": "Nazionale",
    "area": "",
-   "time": "intera giornata ad eslusione del trasporto ferroviario, trasporto merci su rotaia.per la sanità lo sciopero è articolato dall'inizio del primo turno del 20/11 alla fine dell'ultimo",
+   "time": "intera giornata ad esclusione del trasporto pubblico locale, trasporto ferroviario, trasporto merci su rotaia.per la sanità lo sciopero è articolato dall'inizio del primo turno del 20/11 alla fine dell'ultimo",
    "hours": "",
    "unions": "Clap Confederazione Cobas Sial Cobas",
-   "notes": "SONO ESCLUSE TUTTE LE AZIENDE INTERESSATE DA SCIOPERI PROCLAMATI PRECEDENTEMENTE",
+   "notes": "ADEGUAMENTO AL P 13 D CON NOTA DEL 16/11, SONO ESCLUSE TUTTE LE AZIENDE INTERESSATE DA SCIOPERI PROCLAMATI PRECEDENTEMENTE",
    "status": "Attivo",
    "declared": "2026-11-05"
   },
