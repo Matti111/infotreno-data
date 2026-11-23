@@ -1,8 +1,8 @@
 {
  "source": "Commissione di Garanzia Sciopero - cgsse.it",
- "updated": "2026-11-22T14:58:58Z",
- "from": "2026-11-22",
- "to": "2027-02-20",
+ "updated": "2026-11-23T09:01:07Z",
+ "from": "2026-11-23",
+ "to": "2027-02-21",
  "strikes": [
   {
    "id": 381488,
@@ -35,6 +35,54 @@
    "notes": "VIENE ESCLUSO DALLO SCIOPERO L'INTERO COMPARTO DEI TRASPORTI PER I VVF DALLE ORE 9.00 ALLE ORE 13.00",
    "status": "Attivo",
    "declared": "2026-10-28"
+  },
+  {
+   "id": 383457,
+   "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/383457",
+   "dateStart": "2026-12-16",
+   "dateEnd": "2026-12-17",
+   "sector": "Trasporto ferroviario",
+   "company": "ITALO NTV",
+   "scope": "Nazionale",
+   "area": "",
+   "time": "dalle ore 3.00 del 16/12 alle ore 2.00 del 17/12",
+   "hours": "23.00",
+   "unions": "Uiltrasporti",
+   "notes": "TUTTO IL PERSONALE OPERATIVO EQUIPAGGI DELLA SOCIETÀ ITALO-NTV",
+   "status": "Attivo",
+   "declared": "2026-11-22"
+  },
+  {
+   "id": 383459,
+   "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/383459",
+   "dateStart": "2027-02-01",
+   "dateEnd": "2027-02-01",
+   "sector": "Trasporto ferroviario",
+   "company": "AZIENDE DEL SETTORE",
+   "scope": "Nazionale",
+   "area": "",
+   "time": "dalle ore 9.00 alle ore 17.00",
+   "hours": "8.00",
+   "unions": "Usb Lavoro Privato",
+   "notes": "",
+   "status": "Attivo",
+   "declared": "2026-11-22"
+  },
+  {
+   "id": 383461,
+   "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/383461",
+   "dateStart": "2027-02-02",
+   "dateEnd": "2027-02-02",
+   "sector": "Trasporto ferroviario",
+   "company": "AZIENDE DEL SETTORE",
+   "scope": "Nazionale",
+   "area": "",
+   "time": "sciopero di 4 ore con orari che saranno comunicati territorialmente alle aziende e alle associazioni datoriali",
+   "hours": "8.00",
+   "unions": "Usb Lavoro Privato",
+   "notes": "",
+   "status": "Attivo",
+   "declared": "2026-11-22"
   }
  ]
 }
