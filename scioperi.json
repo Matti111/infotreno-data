@@ -1,6 +1,6 @@
 {
  "source": "Commissione di Garanzia Sciopero - cgsse.it",
- "updated": "2026-11-23T09:01:07Z",
+ "updated": "2026-11-23T16:00:10Z",
  "from": "2026-11-23",
  "to": "2027-02-21",
  "strikes": [
@@ -53,6 +53,22 @@
    "declared": "2026-11-22"
   },
   {
+   "id": 383477,
+   "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/383477",
+   "dateStart": "2026-12-16",
+   "dateEnd": "2026-12-16",
+   "sector": "Trasporto ferroviario",
+   "company": "ITALO NTV",
+   "scope": "Nazionale",
+   "area": "",
+   "time": "dalle ore 9.01 alle ore 16.59",
+   "hours": "8.00",
+   "unions": "Filt Cgil Fit Cisl Ugl Ferrovieri",
+   "notes": "",
+   "status": "Attivo",
+   "declared": "2026-11-22"
+  },
+  {
    "id": 383459,
    "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/383459",
    "dateStart": "2027-02-01",
@@ -62,22 +78,6 @@
    "scope": "Nazionale",
    "area": "",
    "time": "dalle ore 9.00 alle ore 17.00",
-   "hours": "8.00",
-   "unions": "Usb Lavoro Privato",
-   "notes": "",
-   "status": "Attivo",
-   "declared": "2026-11-22"
-  },
-  {
-   "id": 383461,
-   "url": "https://cgsse.it/calendario-scioperi/dettaglio-sciopero/383461",
-   "dateStart": "2027-02-02",
-   "dateEnd": "2027-02-02",
-   "sector": "Trasporto ferroviario",
-   "company": "AZIENDE DEL SETTORE",
-   "scope": "Nazionale",
-   "area": "",
-   "time": "sciopero di 4 ore con orari che saranno comunicati territorialmente alle aziende e alle associazioni datoriali",
    "hours": "8.00",
    "unions": "Usb Lavoro Privato",
    "notes": "",
